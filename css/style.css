@@ -184,6 +184,7 @@ body .buttons-wrapper {
 	-moz-animation: anim2 1s forwards;
 	-o-animation: anim2 1s forwards;
 	animation: anim2 1s forwards;
+	overflow:hidden;
 	/*-- buttons --*/
 }
 body .buttons-wrapper input.slider-input{
